@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/tvmaze/static/css/main.1824b995.css",
-    "main.js": "/tvmaze/static/js/main.0b1e918b.js",
-    "index.html": "/tvmaze/index.html",
-    "main.1824b995.css.map": "/tvmaze/static/css/main.1824b995.css.map",
-    "main.0b1e918b.js.map": "/tvmaze/static/js/main.0b1e918b.js.map"
+    "main.css": "/contact-manager-app/static/css/main.1824b995.css",
+    "main.js": "/contact-manager-app/static/js/main.0b1e918b.js",
+    "index.html": "/contact-manager-app/index.html",
+    "main.1824b995.css.map": "/contact-manager-app/static/css/main.1824b995.css.map",
+    "main.0b1e918b.js.map": "/contact-manager-app/static/js/main.0b1e918b.js.map"
   },
   "entrypoints": [
     "static/css/main.1824b995.css",
